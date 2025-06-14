@@ -1,1 +1,3 @@
 # PRO192
+Đề ôn tập là cái file PRO192_WS,ASM
+Còn bài giải là cái mấy cái file ASM, WS,...
